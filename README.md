@@ -15,7 +15,7 @@ The Dynamic Form Builder Application is a web-based tool that allows users to cr
 ## How to Use
 
 1. Clone the repository:
-   ` git clone https://github.com/your-username/dynamic-form-builder.git`
+   `git clone https://github.com/your-username/dynamic-form-builder.git`
 2. Install dependencies for both the client and server applications:
 
 ```
